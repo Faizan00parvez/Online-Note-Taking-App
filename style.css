@@ -91,3 +91,11 @@
 	border: 0; 
 	outline: 0; 
 }
+
+@media (max-width: 768px) {
+    /* Styles for screens up to 768px wide (e.g., mobile) */
+    .container {
+        font-size: 16px;
+    }
+}
+
